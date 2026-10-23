@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Stranded-Deep-Save-Manager` · Updated: 2026-10-07
+`Stranded-Deep-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `stranded-deep` `save-manager` `survival` `sandbox`
